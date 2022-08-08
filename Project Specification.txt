@@ -1,0 +1,10 @@
+Project Specification:-
+
+Project  have two different types of logins, one for admin and one for user. Admin account have some extra controls as compared with user account. Project is about eBooks purchasing online, therefore, books details like
+Image of book, specification about the book and price of the book must be visible while surfing. In admin account,
+there are controls like adding or removing eBooks. While user account must have purchase options for the
+added eBooks. There are  add to cart kind of controls for the purchase. User can even view their cart
+and make changes in the purchase order done by him.
+This web application is developed using Java Web Application Development tools along with database
+handling. project included the use of HTML5 and JSP for the front-end along with BootStrap and Jquery. For controllers I 
+have used Java Servlet and database is managed by using java classes to connect with MySQL database server.
